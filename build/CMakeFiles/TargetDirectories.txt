@@ -1,0 +1,3 @@
+C:/Users/Liugengxin/Desktop/CG2022/实验/实验2.3/实验2.3_留空代码/build/CMakeFiles/main.dir
+C:/Users/Liugengxin/Desktop/CG2022/实验/实验2.3/实验2.3_留空代码/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Liugengxin/Desktop/CG2022/实验/实验2.3/实验2.3_留空代码/build/CMakeFiles/ZERO_CHECK.dir
